@@ -15,7 +15,7 @@ export const navLinks = [
 export const heroBadges = [
   { label: "Freight Operations", className: "bg-blue-500/20 text-blue-300 border border-blue-500/30" },
   { label: "Full Accounting",    className: "bg-orange-500/20 text-orange-300 border border-orange-500/30" },
-  { label: "Real-time GPS",      className: "bg-green-500/20 text-green-300 border border-green-500/30" },
+  // { label: "Real-time GPS",      className: "bg-green-500/20 text-green-300 border border-green-500/30" },
 ];
 
 export const heroStats = [
