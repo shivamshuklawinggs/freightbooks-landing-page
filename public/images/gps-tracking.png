@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#f1f5f9"/>
+  <rect x="40" y="40" width="1120" height="670" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="40" y="40" width="1120" height="56" rx="16" fill="#1e293b"/>
+  <rect x="40" y="80" width="1120" height="16" fill="#1e293b"/>
+  <circle cx="76" cy="68" r="8" fill="#f87171"/>
+  <circle cx="104" cy="68" r="8" fill="#fbbf24"/>
+  <circle cx="132" cy="68" r="8" fill="#4ade80"/>
+  <rect x="160" y="58" width="320" height="20" rx="6" fill="#334155"/>
+  <text x="600" y="420" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="40" fill="#94a3b8" text-anchor="middle" font-weight="600">GPS Truck Tracking</text>
+  <text x="600" y="475" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="22" fill="#cbd5e1" text-anchor="middle">Place your screenshot here — 1200 x 750 px</text>
+</svg>
